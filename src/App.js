@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Sayac from './Sayac';
 import {IoFishOutline} from 'react-icons/io5' 
